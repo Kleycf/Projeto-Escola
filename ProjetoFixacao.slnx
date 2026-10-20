@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ProjetoFixacao.API/ProjetoFixacao.API.csproj" />
+  <Project Path="ProjetoFixacao/ProjetoFixacao.csproj" />
+</Solution>
