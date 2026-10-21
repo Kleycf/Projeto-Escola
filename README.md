@@ -1,4 +1,4 @@
-# ProjetoFixacao
+# Projeto-Escola
 
 API REST em **.NET 8** com **mensageria assíncrona (RabbitMQ + MassTransit)** e **observabilidade (Prometheus + Grafana)**, toda orquestrada com **Docker Compose**.
 
