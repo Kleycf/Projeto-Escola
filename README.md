@@ -2,7 +2,7 @@
 
 API REST em **.NET 8** com **mensageria assíncrona (RabbitMQ + MassTransit)** e **observabilidade (Prometheus + Grafana)**, toda orquestrada com **Docker Compose**.
 
-Projeto criado para praticar, na prática, os pilares de um backend moderno: desacoplamento via mensageria, resiliência no consumo de mensagens e monitoramento do ambiente.
+Projeto criado para praticar, os pilares de um backend moderno: desacoplamento via mensageria, resiliência no consumo de mensagens e monitoramento do ambiente.
 
 ---
 
