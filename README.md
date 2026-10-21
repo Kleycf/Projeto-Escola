@@ -113,6 +113,6 @@ docker compose down
 ## Autor
 
 **Kleyton Couto Ferreira**
-Estudante de Análise e Desenvolvimento de Sistemas, focado em backend .NET e mensageria.
+Formado em Análise e Desenvolvimento de Sistemas, focado em backend .NET e mensageria.
 
-[GitHub](https://github.com/Kleycf) · [LinkedIn](https://www.linkedin.com/in/SEU_PERFIL)
+[GitHub](https://github.com/Kleycf) · [LinkedIn](linkedin.com/in/kleyton-ferreira-2364171b3)
